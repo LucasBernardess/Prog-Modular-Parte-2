@@ -1,0 +1,13 @@
+{
+  "equipes": [
+    {
+      "nomeEquipe": "Equipe 1",
+      "tiposRobos": ["XYZ", "FTT", "V", "XYZ", "FTT", "V"]
+    },
+    {
+      "nomeEquipe": "Equipe 2",
+      "tiposRobos": ["XYZ", "FTT", "V","XYZ", "FTT", "V"]
+    }
+  ],
+  "duracaoPartida": 60000
+}

@@ -1,0 +1,41 @@
+{
+  "alturaDoTerreno": 5,
+  "larguraDoTerreno": 5,
+  "terreno": [
+    [
+      { "concentracaoDeHelio3": 0.25, "coeficienteDeErro": 0.1, "rugosidade": 0.5 },
+      { "concentracaoDeHelio3": 0.15, "coeficienteDeErro": 0.2, "rugosidade": 0.3 },
+      { "concentracaoDeHelio3": 0.3, "coeficienteDeErro": 0.05, "rugosidade": 0.7 },
+      { "concentracaoDeHelio3": 0.2, "coeficienteDeErro": 0.12, "rugosidade": 0.4 },
+      { "concentracaoDeHelio3": 0.18, "coeficienteDeErro": 0.22, "rugosidade": 0.35 }
+    ],
+    [
+      { "concentracaoDeHelio3": 0.28, "coeficienteDeErro": 0.07, "rugosidade": 0.65 },
+      { "concentracaoDeHelio3": 0.35, "coeficienteDeErro": 0.08, "rugosidade": 0.6 },
+      { "concentracaoDeHelio3": 0.22, "coeficienteDeErro": 0.18, "rugosidade": 0.45 },
+      { "concentracaoDeHelio3": 0.33, "coeficienteDeErro": 0.09, "rugosidade": 0.55 },
+      { "concentracaoDeHelio3": 0.2, "coeficienteDeErro": 0.1, "rugosidade": 0.5 }
+    ],
+    [
+      { "concentracaoDeHelio3": 0.25, "coeficienteDeErro": 0.1, "rugosidade": 0.5 },
+      { "concentracaoDeHelio3": 0.15, "coeficienteDeErro": 0.2, "rugosidade": 0.3 },
+      { "concentracaoDeHelio3": 0.3, "coeficienteDeErro": 0.05, "rugosidade": 0.7 },
+      { "concentracaoDeHelio3": 0.2, "coeficienteDeErro": 0.12, "rugosidade": 0.4 },
+      { "concentracaoDeHelio3": 0.18, "coeficienteDeErro": 0.22, "rugosidade": 0.35 }
+    ],
+    [
+      { "concentracaoDeHelio3": 0.28, "coeficienteDeErro": 0.07, "rugosidade": 0.65 },
+      { "concentracaoDeHelio3": 0.35, "coeficienteDeErro": 0.08, "rugosidade": 0.6 },
+      { "concentracaoDeHelio3": 0.22, "coeficienteDeErro": 0.18, "rugosidade": 0.45 },
+      { "concentracaoDeHelio3": 0.33, "coeficienteDeErro": 0.09, "rugosidade": 0.55 },
+      { "concentracaoDeHelio3": 0.2, "coeficienteDeErro": 0.1, "rugosidade": 0.5 }
+    ],
+    [
+      { "concentracaoDeHelio3": 0.25, "coeficienteDeErro": 0.1, "rugosidade": 0.5 },
+      { "concentracaoDeHelio3": 0.15, "coeficienteDeErro": 0.2, "rugosidade": 0.3 },
+      { "concentracaoDeHelio3": 0.3, "coeficienteDeErro": 0.05, "rugosidade": 0.7 },
+      { "concentracaoDeHelio3": 0.2, "coeficienteDeErro": 0.12, "rugosidade": 0.4 },
+      { "concentracaoDeHelio3": 0.18, "coeficienteDeErro": 0.22, "rugosidade": 0.35 }
+    ]
+  ]
+}
